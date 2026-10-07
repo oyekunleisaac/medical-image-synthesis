@@ -1,0 +1,11 @@
+# Medical image data and generated images are never committed
+*.dcm
+*.nii
+*.nii.gz
+*.h5
+*.pt
+*.npy
+synthetic_mammograms/
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
