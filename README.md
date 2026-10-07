@@ -83,9 +83,5 @@ No image data is distributed with this repository.
 ## Acknowledgements
 
 - DATICAN, and my supervisors Prof. Benjamin Aribisala and Prof. Samson Arekete.
-- The k-space preprocessing, helper functions and Gaussian-process reconstruction code are
-  adapted from **KspaceMRIBO** (https://github.com/yihonglilyxu/KspaceMRIBO), released with:
-  Y. Xu, C. W. Farris, S. W. Anderson, X. Zhang and K. A. Brown, *Bayesian reconstruction of
-  magnetic resonance images using Gaussian processes*, arXiv:2303.13700. That code remains
-  the work of its authors.
+- The k-space preprocessing, helper functions and Gaussian-process reconstruction code are adapted from **KspaceMRIBO** (https://github.com/yihonglilyxu/KspaceMRIBO), 
 - Fourier transforms use the `fastMRI` library.
